@@ -42,6 +42,7 @@ OPTIONS :-
           to add the body for the note.
 
 EXAMPLE :- 
+
       To add a note
           node todoApp add --title="My title" --body="my body"
 
