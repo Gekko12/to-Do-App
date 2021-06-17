@@ -5,7 +5,7 @@ SYNOPSIS
       node todoApp  [COMMAND] [OPTIONS]...
 
 DESCRIPTION
-      Make notes using cli based system and store it into the notes.txt file
+      Make notes using cli based system and store it into the notes.json file
 
 COMMAND
       add
