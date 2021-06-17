@@ -8,15 +8,19 @@ This notes taking app takes command from the terminal and performs the following
 
 # usage
 NAME :- 
+
       node todoApp - CLI based notes maker
       
 SYNOPSIS :- 
+
       node todoApp  [COMMAND] [OPTIONS]...
 
 DESCRIPTION :- 
+
       Make notes using cli based system and store it into the notes.txt file
 
 COMMAND :- 
+
       add
           to add the note with title and body
       
@@ -29,14 +33,15 @@ COMMAND :-
       list
           to list all the titles 
 
-OPTIONS
+OPTIONS :- 
+
       --title
           to add the title for the note.
 
       --body
           to add the body for the note.
 
-EXAMPLE
+EXAMPLE :- 
       To add a note
           node todoApp add --title="My title" --body="my body"
 
@@ -49,5 +54,6 @@ EXAMPLE
       To read a note
           node todoApp read --title="My title"
 
-AUTHOR
+AUTHOR :- 
+
        Written by Gaurav Sharma.
