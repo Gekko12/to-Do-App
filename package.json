@@ -1,0 +1,14 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "todoApp to make notes using CLI",
+  "main": "todoApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
