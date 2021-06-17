@@ -7,16 +7,16 @@ This notes taking app takes command from the terminal and performs the following
 - **Read note** -> Requires user to enter the title of the note they want to read and displays the body of that note on the terminal
 
 # usage
-NAME
+NAME :- 
       node todoApp - CLI based notes maker
       
-SYNOPSIS
+SYNOPSIS :- 
       node todoApp  [COMMAND] [OPTIONS]...
 
-DESCRIPTION
+DESCRIPTION :- 
       Make notes using cli based system and store it into the notes.txt file
 
-COMMAND
+COMMAND :- 
       add
           to add the note with title and body
       
